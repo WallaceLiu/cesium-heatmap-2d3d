@@ -1,6 +1,11 @@
 # cesium-heatmap-2d3d
 Cesium Heatmap plugin base on heatmap.js and heatmap webgl
 
+## 环境 
+- cnpm@9.2.0 
+- npm@9.6.6
+- node@16.20.0
+- vue2
 
 # 启动
 
